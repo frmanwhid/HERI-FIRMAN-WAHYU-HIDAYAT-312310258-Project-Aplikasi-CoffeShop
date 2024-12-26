@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937341567174",
+    "project_id": "povcoffe-20e1f",
+    "storage_bucket": "povcoffe-20e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937341567174:android:fdca19c370da251c2657c7",
+        "android_client_info": {
+          "package_name": "com.example.povcoffe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfis-L-EBr6bXb4hnmtee39iCV-tvNIVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
